@@ -18,7 +18,7 @@ I’m a **backend developer** skilled in **Node.js, Express.js, and database man
 ### 🎮 Tic-Tac-Toe Online (WebSockets, Node.js)  
 🛠️ **Tech Stack:** Node.js, Express.js, WebSockets  
 📜 **Description:** A real-time multiplayer Tic-Tac-Toe game using WebSockets for seamless communication.  
-🔗 **GitHub Repo:** [View Project](#)  
+🔗 **GitHub Repo:** [View Project](https://github.com/ashish-03-dev/tic-tac-toe-online)  
 
 ### 🌍 RESTful API for XYZ  
 🛠️ **Tech Stack:** Node.js, Express.js, MongoDB  

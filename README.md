@@ -17,7 +17,8 @@ I’m a **backend developer** skilled in **Node.js, Express.js, and database man
 
 ### 🎮 Tic-Tac-Toe Online (WebSockets, Node.js)  
 🛠️ **Tech Stack:** Node.js, Express.js, WebSockets  
-📜 **Description:** A real-time, multiplayer Tic-Tac-Toe game with live matchmaking, reconnect support, persistent game state, and round-based scoring. Built with Node.js, Express, and Socket.io.🚀 **Live Demo:** [Toe Online Wars](https://toe-online-wars.vercel.app).
+📜 **Description:** A real-time, multiplayer Tic-Tac-Toe game with live matchmaking, reconnect support, persistent game state, and round-based scoring. Built with Node.js, Express, and Socket.io.
+🚀 **Live Demo:** [Toe Online Wars](https://toe-online-wars.vercel.app).
 🔗 **GitHub Repo:** [View Project](https://github.com/ashish-03-dev/tic-tac-toe-online)  
 
 ### 🌍 RESTful API for XYZ  

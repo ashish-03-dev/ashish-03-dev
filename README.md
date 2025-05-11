@@ -22,14 +22,10 @@ I’m a **backend developer** skilled in **Node.js, Express.js, and database man
 🔗 **GitHub Repo:**  [View Project](https://github.com/ashish-03-dev/tic-tac-toe-online)  
 
 ### 🌍 RESTful API for XYZ  
-🛠️ **Tech Stack:** Node.js, Express.js, MongoDB  
-📜 **Description:** A well-structured RESTful API that handles authentication, CRUD operations, and secure user data.  
-🔗 **GitHub Repo:** [View Project](#)  
-
-### 🛍️ E-Commerce Backend  
-🛠️ **Tech Stack:** Node.js, MySQL, JWT Auth  
-📜 **Description:** A backend system for an e-commerce platform with authentication, product management, and order processing.  
-🔗 **GitHub Repo:** [View Project](#)  
+🛠️ **Tech Stack:** React.js, Node.js, Express.js, MongoDB  
+📜 **Description:** Physique Insight is a full-stack fitness app that helps users track their body measurements, analyze asymmetry, and visualize proportional progress. 
+🔗 **Play Now:**  [Toe Online Wars](https://physique-insight.vercel.app) 
+🔗 **GitHub Repo:** [View Project](https://github.com/ashish-03-dev/PhysiqueInsight)  
 
 ---
 

@@ -24,7 +24,7 @@ I’m a **backend developer** skilled in **Node.js, Express.js, and database man
 ### 🌍 RESTful API for XYZ  
 🛠️ **Tech Stack:** React.js, Node.js, Express.js, MongoDB  
 📜 **Description:** Physique Insight is a full-stack fitness app that helps users track their body measurements, analyze asymmetry, and visualize proportional progress. 
-🔗 **Play Now:**  [Toe Online Wars](https://physique-insight.vercel.app) 
+🔗 **Check it out:**  [Toe Online Wars](https://physique-insight.vercel.app) 
 🔗 **GitHub Repo:** [View Project](https://github.com/ashish-03-dev/PhysiqueInsight)  
 
 ---

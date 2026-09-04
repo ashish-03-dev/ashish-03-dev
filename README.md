@@ -16,18 +16,20 @@ I’m a **backend developer** skilled in **Node.js, Express.js, and database man
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Projects
 
-### 🎮 Tic-Tac-Toe Online (WebSockets, Node.js)  
-🛠️ **Tech Stack:** Node.js, Express.js, WebSockets  
-📜 **Description:** A real-time, multiplayer Tic-Tac-Toe game with live matchmaking, reconnect support, persistent game state, and round-based scoring. Built with **Node.js, Express, and Socket.io**.  
-🔗 **Play Now:**  [Toe Online Wars](https://toe-online-wars.vercel.app)  
-🔗 **GitHub Repo:**  [View Project](https://github.com/ashish-03-dev/tic-tac-toe-online)  
+### 🛍️ Poster Store – E-commerce Web App
+🛠️ **Tech Stack:** React.js, Firebase  
+📜 **Description:** A responsive e-commerce application with secure authentication, real-time database integration, product browsing, shopping cart, and order management. Firestore is used for real-time synchronization of product and user data.
 
-### 💪 Physique Insight – Fitness Tracking App 
+🔗 **Check it out:** [Poster Store](https://backtodorm.vercel.app)  
+🔗 **GitHub Repo:** [View Project](https://github.com/ashish-03-dev/Poster-Store)
+
+### 💪 Physique Insight – Fitness & Body Proportion Tracker
 🛠️ **Tech Stack:** React.js, Node.js, Express.js, MongoDB  
-📜 **Description:** Physique Insight is a full-stack fitness app that helps users track their body measurements, analyze asymmetry, and visualize proportional progress.  
-🔗 **Check it out:**  [Physique Insight](https://physique-insight.vercel.app)  
+📜 **Description:** A fitness tracking application that analyzes body measurements and recommends personalized workouts to help users achieve a balanced physique. Includes JWT authentication, fitness history tracking, and responsive dashboards for visualizing body proportions and progress.
+
+🔗 **Check it out:** [Physique Insight](https://physique-insight.vercel.app)  
 🔗 **GitHub Repo:** [View Project](https://github.com/ashish-03-dev/PhysiqueInsight)
 
 ---

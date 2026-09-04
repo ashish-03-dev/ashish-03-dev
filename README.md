@@ -34,9 +34,13 @@ I’m a **backend developer** skilled in **Node.js, Express.js, and database man
 
 ## 📊 GitHub Stats
 
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashish-03-dev&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-03-dev&layout=compact&theme=tokyonight&hide_border=true)
+![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashish-03-dev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-03-dev&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 

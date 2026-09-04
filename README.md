@@ -6,10 +6,13 @@ I’m a **backend developer** skilled in **Node.js, Express.js, and database man
 ---
 
 ## 🔹 Tech Stack & Skills  
-💻 **Backend:** Node.js, Express.js  
-🗄️ **Databases:** MongoDB, MySQL  
-🛠️ **Tools & Platforms:** Git, Postman, Docker (learning)  
-📌 **Programming for DSA:** Java  
+💻 Languages: Java, JavaScript, C++
+🎨 Frontend: HTML, CSS, Bootstrap, React
+⚙️ Backend: Node.js, Express.js, REST APIs
+🗄️ Database: MongoDB, Firebase
+🔐 Authentication: JWT
+🛠️ Tools: Git, GitHub, Postman, VS Code
+🧩 Core Concepts: Data Structures & Algorithms
 
 ---
 
@@ -29,9 +32,11 @@ I’m a **backend developer** skilled in **Node.js, Express.js, and database man
 
 ---
 
-## 📊 GitHub Stats  
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashish-03-dev&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-03-dev&layout=compact&theme=tokyonight)  
+## 📊 GitHub Stats
+
+![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashish-03-dev&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-03-dev&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 

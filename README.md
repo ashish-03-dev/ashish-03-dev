@@ -23,7 +23,7 @@ I’m a **backend developer** skilled in **Node.js, Express.js, and database man
 📜 **Description:** A responsive e-commerce application with secure authentication, real-time database integration, product browsing, shopping cart, and order management. Firestore is used for real-time synchronization of product and user data.
 
 🔗 **Check it out:** [Poster Store](https://backtodorm.vercel.app)  
-🔗 **GitHub Repo:** [View Project](https://github.com/ashish-03-dev/Poster-Store)
+🔗 **GitHub Repo:** [View Project](https://github.com/ashish-03-dev/backtodorm)
 
 ### 💪 Physique Insight – Fitness & Body Proportion Tracker
 🛠️ **Tech Stack:** React.js, Node.js, Express.js, MongoDB  

@@ -36,7 +36,7 @@ I’m a **backend developer** skilled in **Node.js, Express.js, and database man
 
 ## 📊 GitHub
 
-🚀 **320+ DSA problems solved on LeetCode**  
+🚀 **380+ DSA problems solved on LeetCode**  
 💻 **Computer Science undergraduate | Backend Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ashish--03--dev-181717?style=flat&logo=github)](https://github.com/ashish-03-dev)

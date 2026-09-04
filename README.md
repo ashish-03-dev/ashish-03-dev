@@ -1,5 +1,5 @@
 # 📌 Ashish Kumar – Backend Developer & Problem Solver  
-🚀 **Backend Developer | Node.js | Java (DSA) **  
+🚀 **Backend Developer | Node.js | Java (DSA)** 
 
 I’m a **backend developer** skilled in **Node.js, Express.js, and database management**, with a strong foundation in **Java for DSA and system design**. Passionate about **building scalable applications, solving complex problems**, and writing **efficient code**.  
 

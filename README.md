@@ -5,13 +5,14 @@ I’m a **backend developer** skilled in **Node.js, Express.js, and database man
 
 ---
 
-## 🔹 Tech Stack & Skills  
-💻 Languages: Java, JavaScript, C++
-🎨 Frontend: HTML, CSS, React
-⚙️ Backend: Node.js, Express.js, REST APIs
-🗄️ Database: MongoDB, Firebase
-🔐 Authentication: JWT
-🛠️ Tools: Git, GitHub, Postman, VS Code
+## 🔹 Tech Stack & Skills
+
+💻 Languages: Java, JavaScript, C++  
+🎨 Frontend: HTML, CSS, React  
+⚙️ Backend: Node.js, Express.js, REST APIs  
+🗄️ Database: MongoDB, Firebase  
+🔐 Authentication: JWT  
+🛠️ Tools: Git, GitHub, Postman, VS Code  
 🧩 Core Concepts: Data Structures & Algorithms
 
 ---

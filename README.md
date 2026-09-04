@@ -7,7 +7,7 @@ I’m a **backend developer** skilled in **Node.js, Express.js, and database man
 
 ## 🔹 Tech Stack & Skills  
 💻 Languages: Java, JavaScript, C++
-🎨 Frontend: HTML, CSS, Bootstrap, React
+🎨 Frontend: HTML, CSS, React
 ⚙️ Backend: Node.js, Express.js, REST APIs
 🗄️ Database: MongoDB, Firebase
 🔐 Authentication: JWT
